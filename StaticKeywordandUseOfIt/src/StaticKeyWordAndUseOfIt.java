@@ -38,7 +38,7 @@ public class StaticKeyWordAndUseOfIt {
         UsingStatice.PriceOfTheMobile=1800;
 
         UsingStatice.show();
-        
+
 
 
 
